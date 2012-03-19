@@ -1,0 +1,25 @@
+<--= Blender =-->
+
+"Andreas Esau" for "easyEmit"
+http://blenderartists.org/forum/showthread.php?241656-easyEmit-*Update*-TestAddon-available
+http://dl.dropbox.com/u/1250100/easyEmit/EasyEmit.blend
+
+"Martins Upitis" for "unlimited planar reflections & refraction"
+http://blenderartists.org/forum/showthread.php?242940-unlimited-
+planar-reflections-amp-refraction-%28update%29
+http://dl.dropbox.com/u/11542084/water_surface_1.0.blend
+
+Blender
+http://www.blender.org/
+
+
+<--= Sound =-->
+
+"Synthirius" for "Discomatic"
+http://www.jamendo.com/en/album/105822
+
+"CorrodedMaster" for "2329__Jovica__STAB_004_mastered_16_bitREMIX.wav"
+http://www.freesound.org/people/CorrodedMaster/sounds/120872/
+
+"jnr hacksaw" for "11221__jnr-hacksaw__zap.flac"
+http://www.freesound.org/people/jnr%20hacksaw/sounds/11221/
